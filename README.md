@@ -1,9 +1,12 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonggongjohn&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### Hi there, I'm [GONGGONGJOHN](https://gonggongjohn.me) 👋
+
+- 🔭 I’m currently working on [SmartCalendar](https://github.com/gonggongjohn/Smart-Calendar)
+- 🌱 I’m currently learning Machine Leaning
 
 <!--
 **gonggongjohn/gonggongjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonggongjohn)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
