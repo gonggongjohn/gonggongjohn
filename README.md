@@ -1,9 +1,12 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonggongjohn&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=gonggongjohn&show_icons=true&theme=tokyonight&hide_title=true" />
 
 ### Hi there, I'm [GONGGONGJOHN](https://gonggongjohn.me) 👋
 
-- 🔭 I’m currently working on [SmartCalendar](https://github.com/gonggongjohn/Smart-Calendar)
-- 🌱 I’m currently learning Machine Leaning
+- 🔭 I’m currently working on [SmartCalendar](https://github.com/gonggongjohn/Smart-Calendar), [EOK](https://github.com/gonggongjohn/Evolution-Of-Knowledge), etc.
+- 🌱 I’m currently learning Object Detection
+- 📫 How to reach me: gonggongjohn@163.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonggongjohn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gonggongjohn/gonggongjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
