@@ -1,9 +1,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gonggongjohn&show_icons=true&theme=tokyonight&hide_title=true" />
 
 ### Hi there, I'm [GONGGONGJOHN](https://gonggongjohn.me) 👋
-
-- 🔭 I’m currently working on [SmartCalendar](https://github.com/gonggongjohn/Smart-Calendar), [EOK](https://github.com/gonggongjohn/Evolution-Of-Knowledge), etc.
-- 🌱 I’m currently learning Object Detection
+- 🧐 Interested in ML model interpretability, cognitive science and interactive design.
+- 🎓 Major in Data Science at East China Normal University, minor in Applied Psychology as an intermittent shift.
+- 🔭 I’m currently working on [Brog](https://github.com/Y-jiji/Brog), [EOK](https://github.com/gonggongjohn/Evolution-Of-Knowledge), etc.
+- 🌱 Currently learning Contrastive Learning, Graph Embedding, Knowledge Representation, etc.
+- ✍🏻 Personal blog: [GONGGONGJOHN's blog](https://gonggongjohn.me)
 - 📫 How to reach me: gonggongjohn@163.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonggongjohn&layout=compact&exclude_repo=blog)](https://github.com/anuraghazra/github-readme-stats)
