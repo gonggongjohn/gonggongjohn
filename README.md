@@ -1,9 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gonggongjohn&show_icons=true&theme=tokyonight&hide_title=true" />
 
 ### Hi there, I'm [GONGGONGJOHN](https://gonggongjohn.me) 👋
-- 🧐 Interested in ML model interpretability, cognitive science and interactive design.
-- 🎓 Major in Data Science at East China Normal University, minor in Applied Psychology as an intermittent shift.
-- 🔭 I’m currently working on [Brog](https://github.com/Y-jiji/Brog), [EOK](https://github.com/gonggongjohn/Evolution-Of-Knowledge), etc.
+- 🧐 Interested in ML model interpretability, natural language processing and robotics.
+- 🎓 Pursuing master degree in Computer Engineering at New York University.
 - 🌱 Currently learning Contrastive Learning, Graph Embedding, Knowledge Representation, etc.
 - ✍🏻 Personal blog: [GONGGONGJOHN's blog](https://gonggongjohn.me)
 - 📫 How to reach me: gonggongjohn@163.com
