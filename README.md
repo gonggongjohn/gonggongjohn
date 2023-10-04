@@ -5,7 +5,7 @@
 - 🎓 Pursuing master degree in Computer Engineering at New York University.
 - 🌱 Currently learning Contrastive Learning, Graph Embedding, Knowledge Representation, etc.
 - ✍🏻 Personal blog: [GONGGONGJOHN's blog](https://gonggongjohn.me)
-- 📫 How to reach me: gonggongjohn@163.com
+- 📫 How to reach me: gonggongjohn@gmail.com / gonggongjohn@163.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonggongjohn&layout=compact&exclude_repo=blog)](https://github.com/anuraghazra/github-readme-stats)
 
