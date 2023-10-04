@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=gonggongjohn&show_icons=true&theme=tokyonight&hide_title=true" />
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=gonggongjohn&show_icons=true&theme=tokyonight&hide_title=true" />-->
 
 ### Hi there, I'm [GONGGONGJOHN](https://gonggongjohn.me) 👋
 - 🧐 Interested in ML model interpretability, natural language processing and robotics.
