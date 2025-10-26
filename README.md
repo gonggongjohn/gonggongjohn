@@ -1,9 +1,9 @@
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=gonggongjohn&show_icons=true&theme=tokyonight&hide_title=true" />-->
 
 ### Hi there, I'm [GONGGONGJOHN](https://gonggongjohn.me) 👋
-- 🧐 Interested in ML model interpretability, natural language processing and robotics.
-- 🎓 Pursuing master degree in Computer Engineering at New York University.
-- 🌱 Currently learning Contrastive Learning, Graph Embedding, Knowledge Representation, etc.
+- 🧐 Interested in ML model interpretability, natural language processing and computational linguistics.
+- 🎓 Obtained master degree at New York University recently.
+- 🌱 Currently learning Contrastive Learning, Reinforcement Learning, Knowledge Representation, etc.
 - ✍🏻 Personal blog: [GONGGONGJOHN's blog](https://gonggongjohn.me)
 - 📫 How to reach me: gonggongjohn@gmail.com / gonggongjohn@163.com
 
